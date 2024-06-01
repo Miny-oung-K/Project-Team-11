@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Abhaya Libre';
+    font-family: 'Arial';
     font-style: normal;
     font-weight: 400;
     src: url(https://fonts.gstatic.com/s/abhayalibre/v14/e3tmeuGtX-Co5MNzeAOqinEQfEnXgPRE4g.woff2) format('woff2');
@@ -16,7 +16,7 @@ body {
 }
 
 header {
-    background-color: #16425b;
+    background-color: #D8BFD8;
     color: white;
     padding-top: 4em;
     padding-bottom: 4em;
@@ -65,7 +65,7 @@ footer p {
 }
 
 @keyframes colorChange {
-    0% {
+    100% {
         color: white;
     }
     25% {
@@ -74,7 +74,7 @@ footer p {
     50% {
         color: #DA70D6; /* Sky Blue */
     }
-    75% {
+    100% {
         color: #9400D3; /* Steel Blue */
     }
     100% {
