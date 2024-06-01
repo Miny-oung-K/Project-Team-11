@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: black;
+    background-color: #ED92FD;
     color: white;
     font-size: 1.5em;
     font-family: 'Abhaya Libre', 'Times New Roman', Arial, sans-serif;
@@ -46,7 +46,7 @@ main {
 }
 
 footer {
-    background-color: #16425b;
+    background-color: #D8BFD8;
     color: white;
     padding-top: 1em;
     padding-bottom: 1em;
@@ -55,7 +55,7 @@ footer {
 footer p {
     margin-left: 2em;
     margin-right: 2em;
-    color: #DA70D6;
+    color: black;
     font-size: 1em;
     text-align: center;
 }
