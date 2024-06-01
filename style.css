@@ -55,31 +55,9 @@ footer {
 footer p {
     margin-left: 2em;
     margin-right: 2em;
-    color: white;
+    color: #DA70D6;
     font-size: 1em;
     text-align: center;
-}
-
-.footer-design {
-    animation: colorChange 8s infinite alternate;
-}
-
-@keyframes colorChange {
-    100% {
-        color: white;
-    }
-    25% {
-        color: #D8BFD8; /* Light Blue */
-    }
-    50% {
-        color: #DA70D6; /* Sky Blue */
-    }
-    100% {
-        color: #9400D3; /* Steel Blue */
-    }
-    100% {
-        color: white;
-    }
 }
 
 #songs-container {
@@ -106,7 +84,7 @@ footer p {
 }
 
 .song a {
-    color: #16425b;
+    color: #D8BFD8;
     text-decoration: none;
 }
 
